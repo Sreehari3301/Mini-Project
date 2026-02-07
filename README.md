@@ -113,7 +113,7 @@ To use your own model:
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU LICENSE. See `LICENSE` for more information.
 
 ---
 
