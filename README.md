@@ -43,7 +43,7 @@ The system follows a modular architecture:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Mini-Project.git
-   cd mimi-project
+   cd Mini-Project
    ```
 
 2. **Set up a virtual environment (Recommended)**:
