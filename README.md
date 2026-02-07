@@ -32,7 +32,7 @@ By default, the app looks for `sign_model.keras`.
 
 ## 📁 Project Structure
 - `app.py`: Main application logic and UI.
-- `create_dummy_model.py`: Script to generate a placeholder model for testing.
+- `create_model.py`: Script to generate a placeholder model for testing.
 - `sign_model.keras`: The trained neural network model.
 - `sign_recognition_log.csv`: Automatically generated session logs.
 - `requirements.txt`: Python package dependencies.
